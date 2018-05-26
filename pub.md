@@ -1,10 +1,8 @@
 ---
 layout: page
-title: About
+title: Publications
 permalink: /pub/
 ---
-
-# Publications 
 
 * Rust Cookbook with Packt Publisher.[Link](https://www.packtpub.com/application-development/rust-cookbook)
 * Low cost smart TV converter.[Link](https://www.researchgate.net/publication/262935449_Low_Cost_Smart_TV_converter_module)

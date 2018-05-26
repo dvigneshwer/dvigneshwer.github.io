@@ -1,14 +1,12 @@
 ---
 layout: page
-title: About
+title: About me
 permalink: /about/
 ---
 
-# Vigneshwer Dhinakaran
+ML Researcher - Mozilla TechSpeaker - Author - Occasional blogger - Explorer - Foodie
 
-ML Researcher| Mozilla TechSpeaker | Author | Occasional blogger | Explorer | Foodie
-
-## About me (Crisp & short)
+## Crisp & short description : 
 
 I like to describe myself as an innovative machine learning researcher and a passionate software developer have 3+ years of experience in various domains such as Chatbots, DevOps, Web development, e-Commerce, Computer Vision & customer service and am currently engaged as a research engineer crunching real-time data and implementing state of art AI algorithms for many Fortune 500 companies in the research lab of the world’s largest decision science company in Bengaluru, India.
 

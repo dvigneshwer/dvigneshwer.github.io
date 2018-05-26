@@ -234,7 +234,7 @@ sudo pip install pytest-benchmark
 
 This should give you an output simillar to:   
 
-![benchmark results](https://github.com/MozillaIndia/RustIndia/blob/master/RainOfRust/images/rust_python_bench.png)
+![benchmark results]({{ site.baseurl }}/images/rust_python_bench.png)
 
 Conclusion
 ==========
