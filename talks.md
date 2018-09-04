@@ -7,6 +7,7 @@ permalink: /talks/
 ## Talks
 
 [Recorded talk playlist](https://www.youtube.com/watch?v=Zqzwkiii2NE&list=PLLYM4qs6CxRAPDyji-Y4A0KvVz0e7SJ6o)
+
 [Presentations](https://speakerdeck.com/dvigneshwer)
 
 * Pumping up python modules using Rust - PyCon MY 2018 
