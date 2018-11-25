@@ -17,7 +17,7 @@ permalink: /talks/
 * Hacker's guide to WebAssembly - Scotland Js
 * Pumping up python modules using Rust - PyCon APAC 2018 
 * Pumping up python modules using Rust - PyCon US 2018 
-* Pumping up python modules using Rust - JsConf AU 2018 
+* Pumping up NodeJs modules using Rust - JsConf AU 2018 
 * Hacker's guide to Rust programming - ACCU 2018
 * Hacker's guide to WebAssembly - ACCU 2018
 * Hacker's guide to WebAssembly - DevConfCZ 2018
