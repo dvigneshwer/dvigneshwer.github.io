@@ -25,7 +25,7 @@ Find me interesting, feel free to check out my [resume](https://drive.google.com
 * Got a couple of awards for my high-quality client deliverables at [MuSigma](https://www.mu-sigma.com/)
 
 * Community contributions:
-    * Lead coach for [AI family challenge coimbatore](https://www.curiositymachine.org/aichallenge/)
+    * Lead coach for AI family challenge Coimbatore. [Video](https://www.youtube.com/watch?v=CyOjIUlbzVg) | [Blog](https://iridescentlearning.org/2019/02/engineers-mentor-ai-coimbatore-india/)
     * Active member of the Mozilla TechSpeakers program, check out my [recorded talks](https://www.youtube.com/watch?v=Zqzwkiii2NE&index=1&list=PLLYM4qs6CxRAPDyji-Y4A0KvVz0e7SJ6o)
     * [Mozilla Representative](https://reps.mozilla.org/u/dvigneshwer/) - Have helped organize and run more than 100+ events in India
     * Helped curating the decentralization space of [Mozfest 2017](https://mozillafestival.org/)
