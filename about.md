@@ -10,10 +10,6 @@ ML Researcher - Mozilla TechSpeaker - Author - Occasional blogger - Explorer - F
 
 An innovative data scientist with an artistic perception of technology and business, having more than several years of work experience in developing robust machine learning solutions for video and text analytical problem statements and have played key roles in analyzing problems, creating hypothesis matrix and delivering novel algorithms and data-driven solutions for many fortune 500 companies. An open Source aficionado, tech speaker and the author of Rust cookbook.
 
-### Resume
-
-Find me interesting, feel free to check out my [resume](https://drive.google.com/open?id=1sGzPmMA3rmpEZ9I6dsbfLIN9ZC9wymfk) - last updated on Mar 2018
-
 ### Contact me
 
 [dvigneshwer@gmail.com](mailto:dvigneshwer@gmail.com)
